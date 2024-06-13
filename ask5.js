@@ -1,12 +1,3 @@
-<!DOCTYPE html> 
-<html> 
-  <head> 
-		<title> Παραδειγμα 5 JS </title> 
-		<meta charset="utf-8"> 
-  </head> 
-  <body> 
-	<p>Παράδειγμα 5 χρήσης javascript!</p> 
-	<script>
 	 var alex;
 	 let Gazis2$; 
 	 alex=1;
@@ -23,6 +14,3 @@
 	 document.write("Gazis2$= "+Gazis2$); 
 	 window.alert("Gazis2$%= "+Gazis2$); 
 	 console.log("Gazis2$%= "+Gazis2$); 
-	</script> 
-  </body> 
-</html>
