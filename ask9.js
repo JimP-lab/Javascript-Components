@@ -1,13 +1,5 @@
-<!DOCTYPE html> 
-<html> 
-	<head> 
-		<title> Παραδειγμα 9 JS </title> 
-		<meta charset="utf-8"> 
-	</head> 
+		<p>Παράδειγμα User Registration </p> 
 
-	<body> 
-		<p>Παράδειγμα 9 χρήσης javascript!</p> 
-		<script>
 		 var eisodosXristi; 
 		 eisodosXristi = prompt("Εισήγαγε τον κωδικό εισόδου"); 
 		 if (eisodosXristi == '123@Alex')
@@ -17,6 +9,3 @@
 		   console.log("Σωστός Κωδικός"); 
 		 } 
 
-		</script> 
-	</body> 
-</html> 
