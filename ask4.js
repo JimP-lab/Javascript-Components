@@ -1,12 +1,3 @@
-<!DOCTYPE html> 
-<html> 
-	<head> 
-		<title> Παραδειγμα 4 JS </title> 
-		<meta charset="utf-8"> 
-	</head> 
-	<body> 
-		<p>Παράδειγμα 4 χρήσης javascript!</p> 
-		 <script> 
 			var metavliti1;
 			let metavliti2;
 			var metavliti3;
@@ -35,6 +26,3 @@
 			document.write(_metavliti6);
 			window.alert(_metavliti6);
 			console.log(_metavliti6); 
-		</script> 
-	</body> 
-</html> 
