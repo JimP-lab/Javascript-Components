@@ -1,13 +1,4 @@
-<!DOCTYPE html> 
-<html> 
-	<head> 
-		<title> Παραδειγμα 8 JS </title> 
-		<meta charset="utf-8"> 
-	</head> 
 
-	<body> 
-		<p>Παράδειγμα 8 χρήσης javascript!</p> 
-		<script>
 		 var eisodosXristi; 
 		 eisodosXristi = prompt("Πως λεγεσαι;"); 
 		 if (eisodosXristi == 'Αλέξανδρος Γαζής')
@@ -21,6 +12,3 @@
 			window.alert("Λαθος ονομασια χρηστη"); 
 			console.log("Λαθος ονομασια χρηστη"); 
 		}
-		</script> 
-	</body> 
-</html> 
