@@ -1,13 +1,4 @@
-<!DOCTYPE html> 
-<html> 
-	<head> 
-		<title> Παραδειγμα 10 JS </title> 
-		<meta charset="utf-8"> 
-	</head> 
-
-	<body> 
-		<p>Παράδειγμα 10 χρήσης javascript!</p> 
-		<script>
+ 
 		var Mia_timi; 
 		//Ελέγξτε την λειτουργία της if αν αλλάξτε την τιμή της μεταβλητής με άλλους ακεραίους/δεκαδικούς
 		Mia_timi=12; 
@@ -28,6 +19,5 @@
 			window.alert("Θετικός Αριθμός"); 
 			console.log("Θετικός Αριθμός"); 
 		}
-		</script> 
-	</body> 
-</html> 
+ 
+
