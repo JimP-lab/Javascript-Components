@@ -1,4 +1,4 @@
-		<p>Παράδειγμα User Registration </p> 
+
 
 		 var eisodosXristi; 
 		 eisodosXristi = prompt("Εισήγαγε τον κωδικό εισόδου"); 
