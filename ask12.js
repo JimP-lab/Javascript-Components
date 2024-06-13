@@ -1,12 +1,4 @@
-<!DOCTYPE html> 
-<html> 
-	<head> 
-		<title> Παραδειγμα 12 JS </title> 
-		<meta charset="utf-8"> 
-	</head> 
-	<body> 
-		<p>Παράδειγμα 12 χρήσης javascript!</p> 
-		<script>
+
 		  onomaSinartisis(); 
 		  var i; 
 		  for (i=0; i<=21; i++) 
@@ -23,6 +15,4 @@
 		 { 
 			document.write(" Παράδειγμα χρήσης συνάρτησης!!! "); 
 		 }
-		</script> 
-	</body> 
-</html> 
+		
