@@ -1,7 +1,7 @@
 
 		 var eisodosXristi; 
 		 eisodosXristi = prompt("Πως λεγεσαι;"); 
-		 if (eisodosXristi == 'Aλεξανδρος')
+		 if (eisodosXristi == 'Aλεξανδρος Γαζης')
 		 { 
 		   document.write("Γεια σου Αλέξανδρε");
 		   window.alert("Γεια σου Αλέξανδρε"); 
